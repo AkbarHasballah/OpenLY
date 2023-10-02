@@ -1,745 +1,719 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "properties": {
-              "name": "stasiun sentolo"
-            },
-            "geometry": {
-              "coordinates": [
-                110.2203492703573,
-                -7.833005343398526
-              ],
-              "type": "Point"
-            },
-            "id": 112
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "name ": "puskesmas sentolo"
-            },
-            "geometry": {
-              "coordinates": [
-                110.21917641426597,
-                -7.833154801029281
-              ],
-              "type": "Point"
-            },
-            "id": 113
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "name": "bandung"
-            },
-            "geometry": {
-              "coordinates": [
-                107.6049460562387,
-                -6.933942823925207
-              ],
-              "type": "Point"
-            },
-            "id": 112
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "name": "pasar montang"
-            },
-            "geometry": {
-              "coordinates": [
-                107.60704621365517,
-                -6.941721941716864
-              ],
-              "type": "Point"
-            },
-            "id": 109
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "name": "laboratorium Prodia"
-            },
-            "geometry": {
-              "coordinates": [
-                107.60674949040316,
-                -6.941024327157322
-              ],
-              "type": "Point"
-            },
-            "id": 110
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "name": "BPK JABAR"
-            },
-            "geometry": {
-              "coordinates": [
-                107.60702825305339,
-                -6.943501980636569
-              ],
-              "type": "Point"
-            },
-            "id": 111
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "name": "Taman Kurdi"
-            },
-            "geometry": {
-              "coordinates": [
-                107.6055705888017,
-                -6.943585728291836
-              ],
-              "type": "Point"
-            },
-            "id": 112
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "name": "Taman lingkungan"
-            },
-            "geometry": {
-              "coordinates": [
-                107.60458631390452,
-                -6.943381011774662
-              ],
-              "type": "Point"
-            },
-            "id": 113
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "name": "Komplek kurdi"
-            },
-            "geometry": {
-              "coordinates": [
-                107.60470817651048,
-                -6.943218169025457
-              ],
-              "type": "Point"
-            },
-            "id": 114
-          },{
-            "type": "Feature",
-            "properties": {
-              "name": "Gendung Pendidikan SMK pelayaran"
-            },
-            "geometry": {
-              "coordinates": [
-                109.49099603935463,
-                -7.74727304027769
-              ],
-              "type": "Point"
-            },
-            "id": 4
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "Nama": "Gedung Pelayaran SMK"
-            },
-            "geometry": {
-              "coordinates": [
-                109.49069567828872,
-                -7.747480583896007
-              ],
-              "type": "Point"
-            },
-            "id": 5
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "Name": "Bakso Rajimin"
-            },
-            "geometry": {
-              "coordinates": [
-                109.48962793385834,
-                -7.749531140027386
-              ],
-              "type": "Point"
-            },
-            "id": 6
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "name": "Mie ayam"
-            },
-            "geometry": {
-              "coordinates": [
-                109.4894305800297,
-                -7.749967369837449
-              ],
-              "type": "Point"
-            },
-            "id": 7
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "name": "alun alun karanganyar"
-            },
-            "geometry": {
-              "coordinates": [
-                109.5736568134925,
-                -7.630820408878293
-              ],
-              "type": "Point"
-            },
-            "id": 8
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "name": "pasar karanganyar"
-            },
-            "geometry": {
-              "coordinates": [
-                109.56905964371583,
-                -7.630364410431426
-              ],
-              "type": "Point"
-            },
-            "id": 9
-          },
-          {
-            "type": "Feature",
-            "properties": {},
-            "geometry": {
-              "coordinates": [
-                109.57423074453413,
-                -7.632234881150055
-              ],
-              "type": "Point"
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": {},
-            "geometry": {
-              "coordinates": [
-                109.7300989176112,
-                -7.78819888838467
-              ],
-              "type": "Point"
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": {},
-            "geometry": {
-              "coordinates": [
-                109.72818220002199,
-                -7.788516655469778
-              ],
-              "type": "Point"
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": {},
-            "geometry": {
-              "coordinates": [
-                109.72817074553484,
-                -7.787862206328711
-              ],
-              "type": "Point"
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "name": "stasiun kebumen"
-            },
-            "geometry": {
-              "coordinates": [
-                109.6621382455956,
-                -7.682011009150926
-              ],
-              "type": "Point"
-            },
-            "id": 14
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "name": "stasiun soka"
-            },
-            "geometry": {
-              "coordinates": [
-                109.63953851921838,
-                -7.679219502452781
-              ],
-              "type": "Point"
-            },
-            "id": 15
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "stasiun sruweng": ""
-            },
-            "geometry": {
-              "coordinates": [
-                109.60246189118158,
-                -7.654289982222679
-              ],
-              "type": "Point"
-            },
-            "id": 16
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "name": "stasiun karanganyar"
-            },
-            "geometry": {
-              "coordinates": [
-                109.57368384557509,
-                -7.633177090072579
-              ],
-              "type": "Point"
-            },
-            "id": 17
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "name": "gombong"
-            },
-            "geometry": {
-              "coordinates": [
-                109.51282844029464,
-                -7.607595446429698
-              ],
-              "type": "Point"
-            },
-            "id": 18
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "name ": "stasiun wonosari"
-            },
-            "geometry": {
-              "coordinates": [
-                109.70163407608862,
-                -7.697101561766502
-              ],
-              "type": "Point"
-            },
-            "id": 19
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "name": "pasar kutowinangun"
-            },
-            "geometry": {
-              "coordinates": [
-                109.73939508361644,
-                -7.720490690479863
-              ],
-              "type": "Point"
-            },
-            "id": 20
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "name": "kutowinangun"
-            },
-            "geometry": {
-              "coordinates": [
-                109.73479643789739,
-                -7.716916144248032
-              ],
-              "type": "Point"
-            },
-            "id": 21
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "name": "stasiun prembun"
-            },
-            "geometry": {
-              "coordinates": [
-                109.79773928563145,
-                -7.724432418612167
-              ],
-              "type": "Point"
-            },
-            "id": 22
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "name ": "pasar kabekelan prembun"
-            },
-            "geometry": {
-              "coordinates": [
-                109.80398274896493,
-                -7.72376760736698
-              ],
-              "type": "Point"
-            },
-            "id": 23
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "name": "pasar kelapa prembun"
-            },
-            "geometry": {
-              "coordinates": [
-                109.80522870326934,
-                -7.723211335929406
-              ],
-              "type": "Point"
-            },
-            "id": 25
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "name ": "stasiun butuh"
-            },
-            "geometry": {
-              "coordinates": [
-                109.85882122682506,
-                -7.72449757610687
-              ],
-              "type": "Point"
-            },
-            "id": 26
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "name": "pasar butuh"
-            },
-            "geometry": {
-              "coordinates": [
-                109.85702760029602,
-                -7.722557410046761
-              ],
-              "type": "Point"
-            },
-            "id": 27
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "name": "masjid jami darul akhirah"
-            },
-            "geometry": {
-              "coordinates": [
-                109.85958796793426,
-                -7.722679518662403
-              ],
-              "type": "Point"
-            },
-            "id": 28
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "name": "sdn 1 butuh"
-            },
-            "geometry": {
-              "coordinates": [
-                109.86290138487891,
-                -7.723140817560719
-              ],
-              "type": "Point"
-            },
-            "id": 29
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "name": "smp pgri 14 purworejp"
-            },
-            "geometry": {
-              "coordinates": [
-                109.86381873585196,
-                -7.72247600428301
-              ],
-              "type": "Point"
-            },
-            "id": 30
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "name": "smp pgri butuh"
-            },
-            "geometry": {
-              "coordinates": [
-                109.86469501140789,
-                -7.722136813432471
-              ],
-              "type": "Point"
-            },
-            "id": 31
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "name": "stasiun kutarjo"
-            },
-            "geometry": {
-              "coordinates": [
-                109.90711166858375,
-                -7.7260118534972975
-              ],
-              "type": "Point"
-            },
-            "id": 32
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "name": "Stasiun Jenar"
-            },
-            "geometry": {
-              "coordinates": [
-                110.00134012767359,
-                -7.8024364220322155
-              ],
-              "type": "Point"
-            },
-            "id": 33
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "name": "Stasiun kedundang"
-            },
-            "geometry": {
-              "coordinates": [
-                110.09889500054794,
-                -7.878517220211421
-              ],
-              "type": "Point"
-            },
-            "id": 34
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "name": "SD ngulakan 2"
-            },
-            "geometry": {
-              "coordinates": [
-                110.13048402314882,
-                -7.869080960253314
-              ],
-              "type": "Point"
-            },
-            "id": 35
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "name": "Tk masyitoh"
-            },
-            "geometry": {
-              "coordinates": [
-                110.1330914633304,
-                -7.867668731755288
-              ],
-              "type": "Point"
-            },
-            "id": 36
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "name": "Masjid nurul iman"
-            },
-            "geometry": {
-              "coordinates": [
-                110.13539876651384,
-                -7.86696261570394
-              ],
-              "type": "Point"
-            },
-            "id": 37
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "name": "sd ngulakan 1"
-            },
-            "geometry": {
-              "coordinates": [
-                110.1383063436964,
-                -7.864992917201789
-              ],
-              "type": "Point"
-            },
-            "id": 38
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "name": "wates"
-            },
-            "geometry": {
-              "coordinates": [
-                110.15706509533959,
-                -7.8593812303267185
-              ],
-              "type": "Point"
-            },
-            "id": 39
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "name ": "stasiun wates"
-            },
-            "geometry": {
-              "coordinates": [
-                110.15779667927677,
-                -7.859511306803128
-              ],
-              "type": "Point"
-            },
-            "id": 40
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "name": "bpd wates"
-            },
-            "geometry": {
-              "coordinates": [
-                110.15834067758772,
-                -7.86021743553907
-              ],
-              "type": "Point"
-            },
-            "id": 41
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "Name": "pasar wates"
-            },
-            "geometry": {
-              "coordinates": [
-                110.15854702177421,
-                -7.861741182928299
-              ],
-              "type": "Point"
-            },
-            "id": 42
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "name": "taman wana winutang"
-            },
-            "geometry": {
-              "coordinates": [
-                110.16591899111052,
-                -7.8559450759394736
-              ],
-              "type": "Point"
-            },
-            "id": 43
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "name": "asrama mahasiswa UNY wates"
-            },
-            "geometry": {
-              "coordinates": [
-                110.16483099448709,
-                -7.853436429433927
-              ],
-              "type": "Point"
-            },
-            "id": 44
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "name ": "Gor UNY wates"
-            },
-            "geometry": {
-              "coordinates": [
-                110.16368672217698,
-                -7.854830123807446
-              ],
-              "type": "Point"
-            },
-            "id": 45
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "name": "SMA Negeri 1 Waes"
-            },
-            "geometry": {
-              "coordinates": [
-                110.15892204731034,
-                -7.854960201711137
-              ],
-              "type": "Point"
-            },
-            "id": 46
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "name": "smp negeri 4 wates"
-            },
-            "geometry": {
-              "coordinates": [
-                110.15637088281551,
-                -7.855592008088934
-              ],
-              "type": "Point"
-            },
-            "id": 47
-          },
-          {
-            "type": "Feature",
-            "properties": {},
-            "geometry": {
-              "coordinates": [
-                110.21860021431985,
-                -7.8341700594701535
-              ],
-              "type": "Point"
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "name": "alfamart wates"
-            },
-            "geometry": {
-              "coordinates": [
-                110.26757029912227,
-                -7.812599494392089
-              ],
-              "type": "Point"
-            },
-            "id": 50
-          }
-    ]
-  }
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hotel Bandung"
+      },
+      "geometry": {
+        "coordinates": [
+          107.61065454170239,
+          -6.91606872310588
+        ],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fox Haris hotek Bandung"
+      },
+      "geometry": {
+        "coordinates": [
+          107.61289959227577,
+          -6.914672572172279
+        ],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crowne Plaza Banduing"
+      },
+      "geometry": {
+        "coordinates": [
+          107.61200931359008,
+          -6.917016566345538
+        ],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name ": "Hotel Kedaton"
+      },
+      "geometry": {
+        "coordinates": [
+          107.60782887458959,
+          -6.915325817620982
+        ],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hotel Gino Feruci"
+      },
+      "geometry": {
+        "coordinates": [
+          107.60896430246618,
+          -6.917887555749701
+        ],
+        "type": "Point"
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name ": "BCA Bank Central asia KEbon jati"
+      },
+      "geometry": {
+        "coordinates": [
+          107.60673320261895,
+          -6.915584640809911
+        ],
+        "type": "Point"
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name ": "monumen laskar wanita"
+      },
+      "geometry": {
+        "coordinates": [
+          107.6068571668145,
+          -6.915092391313962
+        ],
+        "type": "Point"
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "monumen tentara pelajar"
+      },
+      "geometry": {
+        "coordinates": [
+          107.60701584098513,
+          -6.914777351366908
+        ],
+        "type": "Point"
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "dinas pengelolaan sumber daya air prov jabar"
+      },
+      "geometry": {
+        "coordinates": [
+          107.60825969045669,
+          -6.914274813657826
+        ],
+        "type": "Point"
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PT Kereta Api Indonesia bandung"
+      },
+      "geometry": {
+        "coordinates": [
+          107.60588487928396,
+          -6.913521831859882
+        ],
+        "type": "Point"
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gedung pakuan"
+      },
+      "geometry": {
+        "coordinates": [
+          107.60475535234241,
+          -6.911772590995639
+        ],
+        "type": "Point"
+      },
+      "id": 10
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Venice Guest House"
+      },
+      "geometry": {
+        "coordinates": [
+          107.60550379818494,
+          -6.912430194093986
+        ],
+        "type": "Point"
+      },
+      "id": 11
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kenangan Hotel"
+      },
+      "geometry": {
+        "coordinates": [
+          107.60540916710096,
+          -6.9126009999439475
+        ],
+        "type": "Point"
+      },
+      "id": 12
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Geary Hotel Bandung"
+      },
+      "geometry": {
+        "coordinates": [
+          107.60327566630696,
+          -6.912460085121012
+        ],
+        "type": "Point"
+      },
+      "id": 13
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Masjid Nurul amal"
+      },
+      "geometry": {
+        "coordinates": [
+          107.60304821187083,
+          -6.913302853142923
+        ],
+        "type": "Point"
+      },
+      "id": 14
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Stasiun Bandung Utara"
+      },
+      "geometry": {
+        "coordinates": [
+          107.60258796069172,
+          -6.9126836825628
+        ],
+        "type": "Point"
+      },
+      "id": 15
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SBU BTS Damri"
+      },
+      "geometry": {
+        "coordinates": [
+          107.60341383196595,
+          -6.9128544883211305
+        ],
+        "type": "Point"
+      },
+      "id": 16
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Red Tulip"
+      },
+      "geometry": {
+        "coordinates": [
+          107.60384397325595,
+          -6.912547037913043
+        ],
+        "type": "Point"
+      },
+      "id": 17
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Scarlet kebon kawung"
+      },
+      "geometry": {
+        "coordinates": [
+          107.60069662722208,
+          -6.912033698476108
+        ],
+        "type": "Point"
+      },
+      "id": 18
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Patradisa hotel"
+      },
+      "geometry": {
+        "coordinates": [
+          107.60176953465435,
+          -6.911428821011853
+        ],
+        "type": "Point"
+      },
+      "id": 19
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Warung nasi ampera Cicendo"
+      },
+      "geometry": {
+        "coordinates": [
+          107.60112711477205,
+          -6.912398597006913
+        ],
+        "type": "Point"
+      },
+      "id": 20
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kartika sari kebon kawung"
+      },
+      "geometry": {
+        "coordinates": [
+          107.59979367921335,
+          -6.911650934572222
+        ],
+        "type": "Point"
+      },
+      "id": 21
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Hotel Unik Bandung"
+      },
+      "geometry": {
+        "coordinates": [
+          107.60026390407404,
+          -6.911512864672915
+        ],
+        "type": "Point"
+      },
+      "id": 22
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Masjid al mu'min"
+      },
+      "geometry": {
+        "coordinates": [
+          107.6017535256168,
+          -6.913354452450278
+        ],
+        "type": "Point"
+      },
+      "id": 23
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hall kereta cepat bandung"
+      },
+      "geometry": {
+        "coordinates": [
+          107.60294233354307,
+          -6.913765373051007
+        ],
+        "type": "Point"
+      },
+      "id": 24
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stasiun Bandung "
+      },
+      "geometry": {
+        "coordinates": [
+          107.60271715544036,
+          -6.914034936770491
+        ],
+        "type": "Point"
+      },
+      "id": 25
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kedai stasiun bandung"
+      },
+      "geometry": {
+        "coordinates": [
+          107.60217076739656,
+          -6.914725282180527
+        ],
+        "type": "Point"
+      },
+      "id": 26
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rumah sakit Santosa"
+      },
+      "geometry": {
+        "coordinates": [
+          107.6004066091632,
+          -6.915427183531662
+        ],
+        "type": "Point"
+      },
+      "id": 27
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name ": "fabu Hotel"
+      },
+      "geometry": {
+        "coordinates": [
+          107.6009345987668,
+          -6.915895172994055
+        ],
+        "type": "Point"
+      },
+      "id": 28
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "RM padang Malah dicup"
+      },
+      "geometry": {
+        "coordinates": [
+          107.60285170387868,
+          -6.915651818531828
+        ],
+        "type": "Point"
+      },
+      "id": 29
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "El cavana Hotel"
+      },
+      "geometry": {
+        "coordinates": [
+          107.59875978444342,
+          -6.914921754390946
+        ],
+        "type": "Point"
+      },
+      "id": 30
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grand eastern"
+      },
+      "geometry": {
+        "coordinates": [
+          107.59821922365916,
+          -6.915146389630507
+        ],
+        "type": "Point"
+      },
+      "id": 31
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ayam goreng tempoe doloe"
+      },
+      "geometry": {
+        "coordinates": [
+          107.59823808043006,
+          -6.915620619231873
+        ],
+        "type": "Point"
+      },
+      "id": 32
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "sate karjan"
+      },
+      "geometry": {
+        "coordinates": [
+          107.59847693287071,
+          -6.912893792524571
+        ],
+        "type": "Point"
+      },
+      "id": 33
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mie rica kejaksaan"
+      },
+      "geometry": {
+        "coordinates": [
+          107.59657239893943,
+          -6.915052791627289
+        ],
+        "type": "Point"
+      },
+      "id": 34
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rumah sakit kebon jati"
+      },
+      "geometry": {
+        "coordinates": [
+          107.59637754563266,
+          -6.915901412850204
+        ],
+        "type": "Point"
+      },
+      "id": 35
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMA pasundan 3 bandung"
+      },
+      "geometry": {
+        "coordinates": [
+          107.60106659818217,
+          -6.916525398246009
+        ],
+        "type": "Point"
+      },
+      "id": 36
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name ": "pasar baru"
+      },
+      "geometry": {
+        "coordinates": [
+          107.6037535606157,
+          -6.9174972011021225
+        ],
+        "type": "Point"
+      },
+      "id": 37
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hotel Pasar baru Heritage Bandung"
+      },
+      "geometry": {
+        "coordinates": [
+          107.60381641652054,
+          -6.917990147830054
+        ],
+        "type": "Point"
+      },
+      "id": 38
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "SMK N 1 Bandung"
+      },
+      "geometry": {
+        "coordinates": [
+          107.60851833284613,
+          -6.913182018014751
+        ],
+        "type": "Point"
+      },
+      "id": 39
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name ": "monen Geust House Bandung"
+      },
+      "geometry": {
+        "coordinates": [
+          107.6062806626179,
+          -6.9119652374601515
+        ],
+        "type": "Point"
+      },
+      "id": 40
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name ": "Kebun Radja"
+      },
+      "geometry": {
+        "coordinates": [
+          107.60974402299905,
+          -6.912570508179044
+        ],
+        "type": "Point"
+      },
+      "id": 41
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SD N Banjasari"
+      },
+      "geometry": {
+        "coordinates": [
+          107.61088171488603,
+          -6.913425373750144
+        ],
+        "type": "Point"
+      },
+      "id": 42
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "santa angela bandung"
+      },
+      "geometry": {
+        "coordinates": [
+          107.61172398401578,
+          -6.912445710156035
+        ],
+        "type": "Point"
+      },
+      "id": 43
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Biara santa angela bandung"
+      },
+      "geometry": {
+        "coordinates": [
+          107.61146994346296,
+          -6.913063466766189
+        ],
+        "type": "Point"
+      },
+      "id": 44
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name ": "Masjid Ar rahman "
+      },
+      "geometry": {
+        "coordinates": [
+          107.61467559463267,
+          -6.9130821864474825
+        ],
+        "type": "Point"
+      },
+      "id": 45
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "SMPN 5 Banding"
+      },
+      "geometry": {
+        "coordinates": [
+          107.61453731164244,
+          -6.914741995221178
+        ],
+        "type": "Point"
+      },
+      "id": 46
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peroustakaan Umum Disjarahad"
+      },
+      "geometry": {
+        "coordinates": [
+          107.61596503650827,
+          -6.914448422379763
+        ],
+        "type": "Point"
+      },
+      "id": 47
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lapangan Bali"
+      },
+      "geometry": {
+        "coordinates": [
+          107.61683437006064,
+          -6.913418845394489
+        ],
+        "type": "Point"
+      },
+      "id": 48
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name ": "Kantor Kecamatan bandung"
+      },
+      "geometry": {
+        "coordinates": [
+          107.61800948662682,
+          -6.913360792432172
+        ],
+        "type": "Point"
+      },
+      "id": 49
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Taman Musik Centrum"
+      },
+      "geometry": {
+        "coordinates": [
+          107.6160041204792,
+          -6.91198199008187
+        ],
+        "type": "Point"
+      },
+      "id": 50
+    }
+  ]
+}
