@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     const lineStringSource = new ol.source.Vector({
-        url: 'https://raw.githubusercontent.com/AkbarHasballah/Geografis_salman.github.io/main/polygon.json',
+        url: 'https://raw.githubusercontent.com/AkbarHasballah/OpenLY/main/polygon.json',
         format: new ol.format.GeoJSON()
     });
 
