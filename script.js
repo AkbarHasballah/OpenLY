@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", () => {
 document.addEventListener("DOMContentLoaded", () => {
     const pointTable = document.getElementById("polygonTable").getElementsByTagName('tbody')[0];
 
-    fetch("https://raw.githubusercontent.com/AkbarHasballah/Geografis_salman.github.io/main/polygon.json") // Ganti "data.json" dengan nama file JSON Anda
+    fetch("https://raw.githubusercontent.com/AkbarHasballah/OpenLY/main/polygon.json") // Ganti "data.json" dengan nama file JSON Anda
         .then(response => response.json())
         .then(data => {
             data.features.forEach(feature => {
@@ -46,7 +46,7 @@ document.addEventListener("DOMContentLoaded", () => {
 document.addEventListener("DOMContentLoaded", () => {
     const pointTable = document.getElementById("polylineTable").getElementsByTagName('tbody')[0];
 
-    fetch("https://raw.githubusercontent.com/AkbarHasballah/Geografis_salman.github.io/main/polyline.json") // Ganti "data.json" dengan nama file JSON Anda
+    fetch("https://raw.githubusercontent.com/AkbarHasballah/OpenLY/main/polyline.json") // Ganti "data.json" dengan nama file JSON Anda
         .then(response => response.json())
         .then(data => {
             data.features.forEach(feature => {
@@ -73,14 +73,14 @@ document.addEventListener('DOMContentLoaded', () => {
             })
         ],
         view: new ol.View({
-            center: ol.proj.fromLonLat([0, 0]),
-            zoom: 2
+            center: ol.proj.fromLonLat([107.60701584098513,-6.914777351366908]),
+            zoom: 13.5
         })
     });
 
     // Mendownload data waypoint, line string, dan polyline
     const waypointSource = new ol.source.Vector({
-        url: 'https://raw.githubusercontent.com/AkbarHasballah/Geografis_salman.github.io/main/waypoint.json',
+        url: 'https://raw.githubusercontent.com/AkbarHasballah/OpenLY/main/waypoint.json',
         format: new ol.format.GeoJSON()
     });
 
@@ -90,7 +90,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     const polylineSource = new ol.source.Vector({
-        url: 'https://raw.githubusercontent.com/AkbarHasballah/Geografis_salman.github.io/main/polyline.json',
+        url: 'https://raw.githubusercontent.com/AkbarHasballah/OpenLY/main/polyline.json',
         format: new ol.format.GeoJSON()
     });
 
