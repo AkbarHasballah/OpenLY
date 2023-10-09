@@ -74,7 +74,7 @@ document.addEventListener('DOMContentLoaded', () => {
         ],
         view: new ol.View({
             center: ol.proj.fromLonLat([107.60701584098513,-6.914777351366908]),
-            zoom: 13.5
+            zoom: 15.1
         })
     });
 
@@ -197,4 +197,6 @@ document.addEventListener('DOMContentLoaded', () => {
         document.getElementById('featureType').textContent = 'Polyline';
         document.getElementById('featureCoords').textContent = polylineCoords.toString();
     });
+
+    
 
