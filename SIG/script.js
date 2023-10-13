@@ -2,7 +2,7 @@
 document.addEventListener("DOMContentLoaded", () => {
     const pointTable = document.getElementById("pointTable").getElementsByTagName('tbody')[0];
 
-    fetch("https://raw.githubusercontent.com/AkbarHasballah/OpenLY/main/waypoint.json") // Ganti "data.json" dengan nama file JSON Anda
+    fetch("https://raw.githubusercontent.com/AkbarHasballah/OpenLY/main/SIG/waypoint.json") // Ganti "data.json" dengan nama file JSON Anda
         .then(response => response.json())
         .then(data => {
             data.features.forEach(feature => {
@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", () => {
 document.addEventListener("DOMContentLoaded", () => {
     const pointTable = document.getElementById("polygonTable").getElementsByTagName('tbody')[0];
 
-    fetch("https://raw.githubusercontent.com/AkbarHasballah/OpenLY/main/polygon.json") // Ganti "data.json" dengan nama file JSON Anda
+    fetch("https://raw.githubusercontent.com/AkbarHasballah/OpenLY/main/SIG/polygon.json") // Ganti "data.json" dengan nama file JSON Anda
         .then(response => response.json())
         .then(data => {
             data.features.forEach(feature => {
@@ -46,7 +46,7 @@ document.addEventListener("DOMContentLoaded", () => {
 document.addEventListener("DOMContentLoaded", () => {
     const pointTable = document.getElementById("polylineTable").getElementsByTagName('tbody')[0];
 
-    fetch("https://raw.githubusercontent.com/AkbarHasballah/OpenLY/main/polyline.json") // Ganti "data.json" dengan nama file JSON Anda
+    fetch("https://raw.githubusercontent.com/AkbarHasballah/OpenLY/main/SIG/polyline.json") // Ganti "data.json" dengan nama file JSON Anda
         .then(response => response.json())
         .then(data => {
             data.features.forEach(feature => {
@@ -80,17 +80,17 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Mendownload data waypoint, line string, dan polyline
     const waypointSource = new ol.source.Vector({
-        url: 'https://raw.githubusercontent.com/AkbarHasballah/OpenLY/main/waypoint.json',
+        url: 'https://raw.githubusercontent.com/AkbarHasballah/OpenLY/main/SIG/waypoint.json',
         format: new ol.format.GeoJSON()
     });
 
     const lineStringSource = new ol.source.Vector({
-        url: 'https://raw.githubusercontent.com/AkbarHasballah/OpenLY/main/polygon.json',
+        url: 'https://raw.githubusercontent.com/AkbarHasballah/OpenLY/main/SIG/polygon.json',
         format: new ol.format.GeoJSON()
     });
 
     const polylineSource = new ol.source.Vector({
-        url: 'https://raw.githubusercontent.com/AkbarHasballah/OpenLY/main/polyline.json',
+        url: 'https://raw.githubusercontent.com/AkbarHasballah/OpenLY/main/SIG/polyline.json',
         format: new ol.format.GeoJSON()
     });
 
