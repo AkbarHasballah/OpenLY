@@ -94,44 +94,8 @@ document.addEventListener('DOMContentLoaded', () => {
         format: new ol.format.GeoJSON()
     });
 
-    // Membuat layer untuk waypoint, line string, dan polyline
-    const waypointLayer = new ol.layer.Vector({
-        source: waypointSource,
-        style: new ol.style.Style({
-            image: new ol.style.Circle({
-                radius: 5,
-                fill: new ol.style.Fill({
-                    color: 'blue'
-                })
-            })
-        })
-    });
+    
 
-    const lineStringLayer = new ol.layer.Vector({
-        source: lineStringSource,
-        style: new ol.style.Style({
-            stroke: new ol.style.Stroke({
-                color: 'green',
-                width: 2
-            })
-        })
-    });
-
-    const polylineLayer = new ol.layer.Vector({
-        source: polylineSource,
-        style: new ol.style.Style({
-            stroke: new ol.style.Stroke({
-                color: 'black',
-                width: 5
-                
-            })
-        })
-    });
-
-    // Menambahkan layer ke peta
-    map.addLayer(waypointLayer);
-    map.addLayer(lineStringLayer);
-    map.addLayer(polylineLayer);
 
     // Mendapatkan koordinat dari GeoJSON
     const getCoordinates = (source) => {
