@@ -1,5 +1,5 @@
-export let URLGeoJson = "https://us-central1-bustling-walker-340203.cloudfunctions.net/function-4";
-export let urlPostGCF = "https://us-central1-bustling-walker-340203.cloudfunctions.net/function-4";
+export let URLGeoJson = "https://us-central1-bustling-walker-340203.cloudfunctions.net/function-2";
+export let urlPostGCF = "https://us-central1-bustling-walker-340203.cloudfunctions.net/function-2";
 export let tableTag="tr";
 export let tableRowClass="content is-small";
 export let tableTemplate=`
