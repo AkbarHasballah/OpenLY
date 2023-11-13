@@ -1,5 +1,5 @@
-export let URLGeoJson = "https://asia-southeast2-bustling-walker-340203.cloudfunctions.net/function-POSTGETGISCOY";
-export let urlPostGCF = "https://asia-southeast2-bustling-walker-340203.cloudfunctions.net/function-PostGCFGIS";
+export let URLGeoJson = "https://asia-southeast2-bustling-walker-340203.cloudfunctions.net/function-PostGCFGIS";
+export let urlPostGCF = "https://asia-southeast2-bustling-walker-340203.cloudfunctions.net/function-POSTGETGISCOY";
 export let tableTag="tr";
 export let tableRowClass="content is-small";
 export let tableTemplate=`
