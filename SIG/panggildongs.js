@@ -4,7 +4,7 @@ const hasil = document.getElementById('hasil');
 // Fungsi untuk mengambil data dari API
 async function ambilDataDariAPI() {
     try {
-        const response = await fetch('https://us-central1-bustling-walker-340203.cloudfunctions.net/function-2');
+        const response = await fetch('https://asia-southeast2-bustling-walker-340203.cloudfunctions.net/function-GetGeoJson');
         const data = await response.text(); // Menggunakan response.text() untuk mengambil teks respons
 
         // Tampilkan data di dalam elemen hasil

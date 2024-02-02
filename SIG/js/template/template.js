@@ -1,4 +1,4 @@
-export let URLGeoJson = "https://us-central1-bustling-walker-340203.cloudfunctions.net/function-4";
+export let URLGeoJson = "https://asia-southeast2-bustling-walker-340203.cloudfunctions.net/function-GetGeoJson";
 export let urlPostGCF = "https://asia-southeast2-bustling-walker-340203.cloudfunctions.net/function-PostGCFGIS";
 export let tableTag="tr";
 export let tableRowClass="content is-small";

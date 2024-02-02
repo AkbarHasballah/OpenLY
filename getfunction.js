@@ -1,7 +1,7 @@
 import { get } from "https://jscroot.github.io/api/croot.js";
 import {setInner,addChild } from "https://jscroot.github.io/element/croot.js";
 
-export let URLGeoJson = "https://us-central1-bustling-walker-340203.cloudfunctions.net/function-4";
+export let URLGeoJson = "https://asia-southeast2-projeku-407007.cloudfunctions.net/function-AmbilDataJson";
 export let tableTag="tr";
 export let tableRowClass="content is-small";
 export let tableTemplate=`
